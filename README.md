@@ -1,4 +1,4 @@
-# Online-retail-analysis-with-Power-BI
+# Online-retail-analysis-with-Power BI
 ## Overview
 This repository contains a Power BI project aimed at analyzing various aspects of revenue and customer data for an online retail store. The project includes visualizations that address specific business questions posed by the CEO and CMO.
 
